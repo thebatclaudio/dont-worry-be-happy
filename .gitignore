@@ -1,0 +1,6 @@
+.vscode
+*/*.pyc
+config/config.json
+*/__pycache__/
+resources/models/
+pretrained_models/

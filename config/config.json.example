@@ -1,0 +1,12 @@
+{
+    "DEVICE_ID": 5,
+    "EMOTION_RECOGNITION_ENGINE": 0,
+    "INPUT_CAMERA": 0,
+    "SEND_VIA_API": false,
+    "API_ENDPOINT": "http://localhost:8000",
+    "API_TOKEN": "your-awesome-api-token",
+    "SEND_VIA_SOCKET": false,
+    "SOCKET_HOST": "127.0.0.1",
+    "SOCKET_PORT": 12346,
+    "DEBUG": true
+}
