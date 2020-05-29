@@ -1,4 +1,6 @@
-# Emotion Recognition
+# Don't worry, be happy
+
+Face detection + Age/Gender Recognition + Emotion Recognition with Python & Tensorflow
 
 ## Installation
 
