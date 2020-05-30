@@ -1,4 +1,4 @@
-# Don't worry, be happy
+# Don't worry, be happy 😀
 
 Face detection + Age/Gender Recognition + Emotion Recognition with Python & Tensorflow
 
@@ -45,7 +45,7 @@ I didn't include these models in my repository, but you can download them:
 `python3 train_emotion_classifier.py`
 
 
-## Credit
+## Credits
 * Computer vision powered by OpenCV.
 * Neural network scaffolding powered by Keras with Tensorflow
 * Convolutional Neural Network (CNN) deep learning architecture is from this [research paper](https://github.com/oarriaga/face_classification/blob/master/report.pdf)
